@@ -1,0 +1,54 @@
+body
+{
+	background-color: #000;
+}
+
+#wrapper
+{
+	width: 800px;
+	margin: 0 auto;
+}
+
+#bgimage, img
+{
+	position: absolute;
+	top: 35px;
+	left: 0px;
+}
+
+h1
+{
+	color: #FFF;
+	background-color:transparent;
+	position: absolute;
+	left: 50px;
+	top: 0px
+}
+
+#header
+{
+	background-color:#FFF;
+}
+
+#flash
+{
+	 position: absolute;
+	 left: 230px;
+	 top: 100px;
+ 	 width: 638px;
+	 height: 355px;
+}
+
+#footer
+{
+	position: absolute;
+	top: 430px;
+	left: 850px;
+}
+
+#initials
+{
+	position: absolute;
+	top: 530px;
+	left: 75px;
+}
